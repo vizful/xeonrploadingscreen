@@ -1,4 +1,4 @@
-//       _           _    _                     _ 
+e//       _           _    _                     _ 
 //      | |         | |  | |                   | |
 //   ___| | ___  ___| | _| |     ___   __ _  __| |
 //  / __| |/ _ \/ _ \ |/ / |    / _ \ / _` |/ _` |
@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "XeonRP";
+var l_serverName = "CheekzSquad Clone Wars";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -133,7 +133,7 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Welcome to XeonRP Clone Wars RP!",
+	"Welcome to CheekzSquad Clone Wars RP!",
 	"Thanks for joining us!",
 	"SeriousRP!",
 ];
